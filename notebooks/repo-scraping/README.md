@@ -25,3 +25,7 @@ will allow it to be more useful for code completion tasks.
   
 - `github-repos/`
   - Repositories checked out from GitHub.
+
+- `training-set-q-language/`
+  - Copy of only the `.q` and `.md` files.
+
